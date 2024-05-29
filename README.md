@@ -32,10 +32,3 @@ Os dados são limitados, o que pode afetar a precisão e a generalização do mo
 
 Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## Contato
-
-Para mais informações, entre em contato pelo email: seu-email@dominio.com
-
----
-
-**Nota:** Ajuste os links, caminhos e informações de contato conforme necessário para refletir a estrutura e detalhes reais do seu repositório.
